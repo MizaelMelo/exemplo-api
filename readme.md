@@ -1,5 +1,5 @@
 ### Exemplo de Consumo de API via GET
-Exemple básico de consumo de dados de uma api. No exemplo abaixo está sendo utilizado a api no modo free do OMDB que tem seu modelo padrão de acesso no seguinte modelo:
+Exemple básico de consumo de dados de uma api. No exemplo abaixo está sendo utilizado a api no modo free do OMDB que tem seu modelo padrão de acesso da seguinte forma:
 
 > http://img.omdbapi.com/?apikey=[yourkey]&[parameters]
 
